@@ -1,7 +1,19 @@
 
 ## Cloud Ramble IOS App Privacy Policy and Terms of Usage
 
-## Privacy Policy
+## Section 1: Terms of usage
+
+We respect the rights of others and we expect the same from you. You therefore may not use the Services, or enable anyone else to use the Services, in a manner that:
+
+1. You must be 17+ years old.
+2. Violating or infringing someone else’s rights of publicity, privacy, copyright, trademark, or other intellectual-property right is unacceptable.
+3. No Bullies, harasses, deframes or intimidates.
+4. No Spams or solicits other users.
+
+Any account that violates above maners will be warned or disabled permanently.
+
+## Section 2: Privacy Policy
+
 This policy applies to all information collected or submitted on our app (Cloud Ramble) for iPhone and any other devices and platforms.
 Information we collect
 
